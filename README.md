@@ -4,11 +4,8 @@ A web platform enabling college students to discover essential services, includi
 **Features**
 
 **Service Listings:** Enables students to find nearby services like food, PGs, clinics, and laundry.
-
 **User & Admin Functions:** User login system with a separate admin panel to manage listings.
-
 **Recommendation System:** Integrated star rating and recommendation system using PHP to display highly-rated services.
-
 **Responsive Design:** Ensures seamless navigation on multiple devices for a better user experience.
 
 
@@ -16,8 +13,10 @@ A web platform enabling college students to discover essential services, includi
 **Technologies Used**
 
 **Frontend:** HTML, CSS, JavaScript for design and responsiveness.
-
 **Backend:** PHP for logic and recommendations.
-
 **Database:** MySQL (or your preferred database) for storing user and service information.
 
+**How to Use**
+**Explore Services:** Browse essential services by category and location.
+**User Account:** Log in to rate services and receive personalized recommendations.
+**Admin Functions:** Access the admin panel (for admins only) to manage and update listings.
